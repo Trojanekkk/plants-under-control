@@ -1,0 +1,37 @@
+{
+  "name": "plants-under-control",
+  "version": "1.0.0",
+  "description": "Soil moisture control system for plants and gardening (based on ESP2866 Wemos D1 mini controller and FC28 sensors) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trojanekkk/plants-under-control.git"
+  },
+  "keywords": [
+    "moisture",
+    "plants",
+    "control",
+    "water",
+    "control",
+    "soil",
+    "moisture",
+    "web",
+    "esp8266",
+    "wemos",
+    "d1",
+    "mini"
+  ],
+  "author": "Wojeciech Trojanowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trojanekkk/plants-under-control/issues"
+  },
+  "homepage": "https://github.com/Trojanekkk/plants-under-control#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
